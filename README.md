@@ -1,4 +1,5 @@
 # hello-norway
 Hello Norway
 
-This is captain speaking
+This is captain speaking.
+Hello captain!
